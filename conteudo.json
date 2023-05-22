@@ -1,0 +1,142 @@
+{
+  "previa": "Alerta: altas doses de inovação!",
+  "artigoDestaque": {
+    "numeroEdicao": "26",
+    "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/destaque_news26.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "O EXIT é delas!",
+    "texto": [
+      "O mês de maio foi marcado por uma grande conquista para nossa história: a Pontue, #investidaWEImpact, foi comprada pela FTD Educação.",
+      "Isso mesmo, é o PRIMEIRO EXIT do nosso portfólio! Parabéns às fundadoras Cris Miura e Livia Maria Silva Toledo: vocês comprovam que não há limites para força e as realizações das mulheres que empreendem em tecnologia.",
+      "E não podemos deixar de dividir essa vitória com nossos investidores, corporates parceiros, líderes, especialistas e demais integrantes da WE Impact Network, que apoiam nosso propósito de investir no empreendedorismo feminino tecnológico.",
+      "Agora, a startup começa uma nova jornada e vai integrar o hub digital do maior sistema de ensino do país!",
+      "Quer relembrar um pouco sobre a trajetória da edutech e entender por que esse é um marco tão importante pra gente?",
+      "CENTRALIZADO NEGRITO Confira nosso artigo no blog WE Impact:"
+    ],
+    "linkBotao": "",
+    "botao": "[Leia mais]"
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ]
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "Carreira e maternidade: dicas para essa jornada",
+    "img": "./img/win_news26.png",
+    "alt": "imagem ilustrativa",
+    "linkedinAutora": "",
+    "nomeAutora": "",
+    "descricaoAutora": "",
+    "texto": [
+      "Um estudo realizado com cerca de 200 profissionais relata que 36% das entrevistadas e entrevistados acreditam que não foram promovidas por conta de suas condições de pais e mães.",
+      "Adicionando a lente de gênero, percebemos que além de uma jornada mais desafiadora, a quantidade de mulheres que têm a oportunidade de ingressar ou se manter no mercado de trabalho após ter um filho (54,6%) é muito inferior à de homens (89,2%).",
+      "Entrevistamos a CIO do WE Ventures, Marcella Ceva, que compartilhou dicas para mulheres que conciliam carreira e maternidade e para corporações que desejam se tornar realmente inclusivas para as mães."
+      ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/blog-carreira-e-maternidade-conselhos/",
+    "botao": "Leia o artigo"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "Cuidar de quem cuida também é inovação!",
+    "img": "./img/diversidade_news26.png",
+    "alt": "Roberta Sotomaior, CEO e cofundadora, Antonia Teixeira, Cofundadora, e Bianca Cassarino, CFO",
+    "texto": [
+      "A Bloom Care, healthtech fundada por Roberta Sotomaior e Antonia Teixeira, lançou um programa inédito de apoio a mães que enfrentam a depressão no trabalho.",
+      "Com a Jornada Saúde Mental Materna, o benefício corporativo com foco na saúde feminina e familiar oferece um acompanhamento voltado para mulheres que apresentaram sintomas de depressão durante o planejamento de uma gravidez, a gestação ou na criação dos filhos.",
+      "Uma bela forma de utilizar a inovação e a tecnologia para cuidar de quem cuida, não é mesmo?"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": ["texto lista JSON", "texto lista JSON"],
+    "linkBotao": "https://economiasp.com/2023/05/17/healthtech-cria-programa-de-apoio-a-maes-com-depressao-no-trabalho/",
+    "botao": "Saiba mais"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "Não tem",
+    "img": "./img/dicadaceo_news26.png",
+    "alt": "Foto Monica Granzo",
+    "texto": [
+      "“Sonhar alto é uma característica de pessoas com sucesso, mas saber como realizar tal objetivo é que vai garantir um negócio sustentável e com crescimento exponencial.",
+      "É preciso se assegurar e apostar tudo na inovação da sua solução. Tem que estar convencida de que todo o legado, toda a história que se está construindo tem muito valor.",
+      "E que o seu negócio vai impactar socialmente, fomentar a empregabilidade ou, ainda, colaborar com a sustentabilidade do setor."
+    ],
+    "linkedinAutora": "",
+    "nomeAutora": "Mônica Granzo",
+    "descricaoAutora": "fundadora e CEO da Smarkets, para o blog WE Impact (colocar link!)"
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/elasimpactam_news26.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "O valor da economia do cuidado",
+    "texto": [
+      "Já parou para pensar em qual seria o valor cobrado para realizar trabalhos de cuidado, como faxinar a casa e cuidar de uma pessoa doente - que, na maioria das vezes, são impostas a meninas e mulheres?",
+      "Além de essenciais para a geração e de manutenção da vida, dados da Oxfam indicam que, se fossem mensuradas em termos econômicos, essas tarefas gerariam cerca de de US$ 10,8 trilhões de dólares produzidos e injetados na economia por ano.",
+      "Para se ter uma ideia, se essa riqueza fosse o PIB de um país, ele seria o quarto país mais rico do mundo!"
+    ],
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://g1.globo.com/podcast/o-assunto/noticia/2023/05/12/mulheres-e-meninas-fariam-um-pais-com-o-quarto-maior-pib-do-mundo-se-fossem-remuneradas-por-trabalho-em-casa-aponta-estudo.ghtml?utm_source=linkedin&utm_medium=share-bar-desktop&utm_campaign=materias",
+    "botao": "Quero saber mais"
+  },
+  "empresasQueTransformam": {
+    "tituloSecao": "#EmpresasQueTransformam",
+    "img": "./img/empresasquetransformam_news26.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "KPMG te convida a mostrar sua inovação para o mundo!",
+    "texto": [
+      "A partir dessa edição, você vai poder acompanhar aqui as principais iniciativas das corporações que fazem parte da WIN - WE Impact Network!",
+      "DIVISOR",
+      "Para abrir com chave de ouro, vamos falar sobre o \"Global Tech Innovator 2023\", competição internacional promovida pela nossa parceira KPMG, com inscrições até 24 de julho. A iniciativa busca startups com tecnologias inovadoras, modelos de negócios robustos, tração nas operações e potencial de expansão.",
+      "As selecionadas nesta edição participam da etapa final do prêmio em Lisboa, no mês de novembro! Confira os requisitos e inscreva-se! "
+    ],
+    "textoLista":["texto lista JSON"],
+    "linkBotao": "https://revistapegn.globo.com/startups/noticia/2023/04/kpmg-abre-inscricoes-de-startups-brasileiras-para-premio-global-de-inovacao.ghtml",
+    "botao": "Quero saber mais"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "./img/namidia_news26.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Chamada aberta: Startups cariocas",
+    "texto": [
+      "Nossos parceiros WE Ventures e AgeRio anunciam a abertura de uma rodada de investimentos destinada ao empreendedorismo feminino tecnológico!",
+      "A chamada é exclusiva para startups do estado do Rio de Janeiro que tenham uma ou mais mulheres em posição de liderança e com participação no capital social da empresa.",
+      "Saiba mais e participe:"
+    ],
+    "linkBotao": "https://news.microsoft.com/pt-br/we-ventures-e-agerio-anunciam-abertura-de-rodada-de-investimento-em-startups-fluminenses-com-mulheres-em-cargos-de-lideranca/?utm_campaign=1605_-_we_impact_insights_-_chatgpt_e_ia&utm_medium=email&utm_source=RD+Station",
+    "botao": "Leia mais"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/narede_news26.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Segundo a “Pesquisa Agenda 2023”, 7 em cada 10 empresas brasileiras vão investir em Inteligência Artificial neste ano. Você vai deixar essa tendência de fora do seu negócio? QUEBRA DE LINHA    Confira o conteúdo e descubra como ter acesso aos principais pontos sobre Chat GPT e IA e as dúvidas mais recorrentes sobre o tema respondidas por um especialista da Microsoft.",
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:7064330197596028928",
+    "botao": "Veja o post"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "ONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "linkBotao": "https://www.sebrae.com.br/sites/PortalSebrae/startupday2021/home",
+    "botao": "Veja a programação completa"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://startups.weimpact.tech/we-impact-news?utm_source=Newsletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram"
+  }
+}
